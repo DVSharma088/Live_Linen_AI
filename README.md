@@ -8,4 +8,4 @@ This repository contains a Dockerized Flask web application using:
 
 ## Build
 ```bash
-docker build -t sam-app .
+docker build -t sam-app.
