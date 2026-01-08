@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Runtime outputs
+static/output/
+static/tmp/
+
+# OS junk
+.DS_Store
+Thumbs.db
