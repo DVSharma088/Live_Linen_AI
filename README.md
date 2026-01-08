@@ -1,4 +1,4 @@
-# SAM Model –  ML Web App
+# SAM Model –  Web App
 
 This repository contains a Dockerized Flask web application using:
 - Segment Anything (SAM)
