@@ -1,6 +1,6 @@
 # SAM Model –  AI Web App
 
-This repository contains a Dockerized Flask web application using:
+This repository contains a Dockerized Flask web application using: 
 - Segment Anything (SAM) 
 - GroundingDINO
 - Gemini API
